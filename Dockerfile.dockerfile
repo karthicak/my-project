@@ -1,2 +1,0 @@
-FROM httpd
-COPY index.html htdocs/index.html
